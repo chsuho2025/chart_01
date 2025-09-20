@@ -1,5 +1,3 @@
-import React, { useState, useEffect, useCallback } from 'react';
-import { fetchRealMusicChart } from './services/musicDataService';
 import Header from './components/Header';
 import MusicChart from './components/MusicChart';
 import LoadingSpinner from './components/LoadingSpinner';
